@@ -1,3 +1,4 @@
-print 2*"hey"
+print "hey"
+# TODO fazer outro print
 
 
