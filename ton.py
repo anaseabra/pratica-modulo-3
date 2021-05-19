@@ -1,3 +1,3 @@
-print "hey"
+print 2*"hey"
 
 
